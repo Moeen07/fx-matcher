@@ -7,6 +7,6 @@ class Transaction:
     date: datetime
     amount: float
     currency: str
-    type: str  # SPEND or RECEIVE
+    type: str  # SPEND or RECEIVE...Should make an Enum later!
     reference: str
     account_name: str
