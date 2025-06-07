@@ -1,0 +1,9 @@
+services:
+  fx_matcher:
+    build: .
+    container_name: fx_matcher
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    command: python main.py

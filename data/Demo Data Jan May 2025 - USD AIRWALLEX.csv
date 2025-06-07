@@ -1,0 +1,63 @@
+Airwallex USD Transactions,,,,,,,,
+For the period 1 January 2025 to 31 May 2025,,,,,,,,
+,,,,,,,,
+Date,Source,Description,Reference,Currency,Spend USD,Receive,Spend (AUD),Receive (AUD)
+1-Jan-25,Spend Money,Weld,,USD,0,499,0,806.89
+2-Jan-25,Spend Money,Monday,,USD,0,396,0,637.87
+4-Jan-25,Spend Money,RichPanel,,USD,0,555,0,893.68
+6-Jan-25,Spend Money,Motion,,USD,0,250,0,397.54
+9-Jan-25,Spend Money,Buffer,,USD,0,30,0,48.42
+10-Jan-25,Spend Money,Superhuman,,USD,0,30,0,48.48
+10-Jan-25,Spend Money,DTS,,USD,0,19,0,30.7
+10-Jan-25,Spend Money,ChatGPT,,USD,0,20,0,32.32
+11-Jan-25,Spend Money,Fireflies,,USD,0,18,0,29.28
+11-Jan-25,Spend Money,LINKTREE,,USD,0,9,0,14.64
+15-Jan-25,Spend Money,Shopify,,USD,0,"1,160.71",0,"1,872.91"
+17-Jan-25,Payable Payment,Payment: Kylee Hickmott,4,USD,0,94.5,0,152.76
+19-Jan-25,Spend Money,Loom,,USD,0,30,0,48.45
+26-Jan-25,Spend Money,DTS,,USD,0,19,0,30.1
+27-Jan-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,"2,531.90",0,"4,015.64",0
+28-Jan-25,Spend Money,Cullan,,USD,0,850.04,0,"1,362.08"
+28-Jan-25,Spend Money,Suspense,,USD,0,999.58,0,"1,601.70"
+30-Jan-25,Spend Money,Fireflies,,USD,0,4.24,0,6.81
+1-Feb-25,Spend Money,Weld,,USD,0,499,0,802.87
+3-Feb-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,911.85,0,"1,482.18",0
+4-Feb-25,Spend Money,Paddle,,USD,0,79.2,0,127.49
+4-Feb-25,Spend Money,RichPanel,,USD,0,555,0,893.38
+6-Feb-25,Spend Money,Motion,,USD,0,250,0,399.02
+9-Feb-25,Spend Money,Buffer,,USD,0,30,0,47.84
+10-Feb-25,Spend Money,Superhuman,,USD,0,30,0,47.83
+10-Feb-25,Spend Money,ChatGPT,,USD,0,20,0,31.89
+10-Feb-25,Spend Money,DTS,,USD,0,19,0,30.29
+11-Feb-25,Spend Money,Fireflies,,USD,0,29,0,46.17
+11-Feb-25,Spend Money,LINKTREE,,USD,0,9,0,14.33
+12-Feb-25,Spend Money,Paddle,,USD,0,20,0,31.85
+12-Feb-25,Spend Money,A2x,,USD,0,79,0,125.82
+18-Feb-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,"1,359.76",0,"2,142.60",0
+19-Feb-25,Spend Money,Loom,,USD,0,30,0,47.23
+20-Feb-25,Spend Money,okendo,,USD,0,422.4,0,662.91
+20-Feb-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,195.14,0,306.25,0
+20-Feb-25,Bank Transfer,Bank Transfer from Airwallex USD to Airwallex AUD,,USD,0,"1,108.62",0,"1,723.53"
+3-Mar-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,268.73,0,431.54,0
+5-Mar-25,Bank Transfer,Bank Transfer from Airwallex AUD to Airwallex USD,,USD,"2,835.01",0,"4,500.00",0
+5-Mar-25,Payable Payment,Payment: Awesome Tut,217,USD,0,"3,000.00",0,"4,778.79"
+9-Mar-25,Spend Money,Buffer,,USD,0,30,0,47.58
+10-Mar-25,Spend Money,DTS,,USD,0,19,0,30.04
+10-Mar-25,Spend Money,ChatGPT,,USD,0,20,0,31.62
+10-Mar-25,Spend Money,Superhuman,,USD,0,30,0,47.43
+18-Mar-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,"1,472.05",0,"2,312.78",0
+19-Mar-25,Spend Money,Yotpo,,USD,0,500,0,789.45
+19-Mar-25,Spend Money,Yotpo,,USD,0,500,0,789.45
+19-Mar-25,Spend Money,Loom,,USD,0,30,0,47.37
+20-Mar-25,Spend Money,okendo,,USD,0,422.4,0,671.89
+26-Mar-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,268710192M6998836,USD,"1,164.00",0,"1,842.99",0
+26-Mar-25,Spend Money,DTS,,USD,0,19,0,30.08
+30-Mar-25,Spend Money,Monday,,USD,0,344.9,0,548.53
+31-Mar-25,Bank Transfer,Bank Transfer from Airwallex USD to Airwallex AUD,,USD,0,442.64,0,700
+31-Mar-25,Bank Transfer,Bank Transfer from USD PayPal to Airwallex USD,PAYPAL IAT; US Market,USD,681.61,0,"1,092.86",0
+2-Apr-25,Bank Transfer,Bank Transfer from Airwallex USD to Airwallex AUD,,USD,0,500,0,789.57
+4-Apr-25,Spend Money,RichPanel,,USD,0,555,0,908.02
+Total Airwallex USD,,,,,"11,420.05","14,577.23","18,126.84","23,256.90"
+Closing Balance,,,,,8.46,0,0,217.31
+,,,,,,,,
+Total,,,,,"11,420.05","14,577.23","18,126.84","23,256.90"
