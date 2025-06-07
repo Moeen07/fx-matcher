@@ -98,6 +98,7 @@ def match_transfers(transactions: List[Transaction]) -> List[tuple]:
 def save_matches_to_csv(matches: List[tuple]):
     with open("matched_transfers.csv", "w", newline="") as f:
         writer = csv.writer(f)
+        # Only a sample format for now
         writer.writerow(["Txn1 Date", "Txn1 Amount", "Txn1 Currency", "Txn2 Date", "Txn2 Amount", "Txn2 Currency", "Reference"])
         for txn1, txn2 in matches:
             writer.writerow([
